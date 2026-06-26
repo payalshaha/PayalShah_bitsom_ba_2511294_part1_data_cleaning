@@ -106,7 +106,7 @@ Key Excel Functions Used:
 | Missing Ship Mode           | Filled with "Unknown"                   |
 | Missing Discount            | Replaced with 0 when valid              |
 | Negative Discount           | Flagged as Invalid                      |
-| Discount Above 50%          | Flagged as Invalid                      |
+| Discount Above 100%         | Flagged as Invalid                      |
 | Cancelled Orders            | Excluded from completed sales summaries |
 | Failed Payments             | Excluded from completed sales summaries |
 | Refunded Orders             | Summarized separately                   |
